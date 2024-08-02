@@ -90,7 +90,6 @@ function App() {
 
   const generateWord = () => {
     if (remainingWords.length === 0) {
-      // Reset words if all have been used
       const emptyMessage = 'Out of words! Think of your own :)';
       setWord(emptyMessage);
     } else {
