@@ -25,8 +25,8 @@ const shuffleArray = (array) => {
 const initialWords = [
   // Animals
   'penguin',
-  'panda',
-  'shark',
+  'caterpillar',
+  'narwhal',
   'raccoon',
   'hippopotamus',
   'kangaroo',
@@ -69,6 +69,22 @@ const initialWords = [
   'cave',
   'scuba diving',
   'birdhouse',
+  // Extra
+  'magnet',
+  'rope',
+  'barn',
+  'universe',
+  'ferris wheel',
+  'bacteria',
+  'saxophone',
+  'basket',
+  'ship',
+  'washing machine',
+  'lawnmower',
+  'lumber',
+  'ruler',
+  'beehive',
+  'bush',
 ];
 
 const theme = createTheme({
